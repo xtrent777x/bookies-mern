@@ -1,7 +1,7 @@
 # Bookies-Mern
 
 ## Description
-
+book search app where you can log in and find books and save and delete as well 
 
 ## Language
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,12 +24,11 @@
 ## Use
 save and search for books 
 
-## Screenshots
 
 
 
 ## Link
-
+https://git.heroku.com/protected-depths-95932.git
 
 
 ### Contact
